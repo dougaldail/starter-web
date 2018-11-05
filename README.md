@@ -15,3 +15,7 @@ from Typhoo ?
 ## How to Contribute
 
 Oh I see that you do ....
+
+###Copyright
+
+Hey, I'm not joking ...
